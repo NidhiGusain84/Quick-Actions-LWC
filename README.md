@@ -1,3 +1,11 @@
+Covered the following topics:
+
+📌 Introduction to Quick Actions and their significance in Salesforce.
+📌 Creating Lightning Web Components (LWC) for Quick Actions.
+📌 Defining and configuring Quick Actions in Salesforce.
+📌 Overriding standard actions (such as Create, Update, and Delete) with custom LWC Quick Actions.
+📌 Leveraging LWC's capabilities to enhance user interfaces and create a seamless user experience.
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
